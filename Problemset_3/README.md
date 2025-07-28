@@ -17,6 +17,4 @@ the solutions of the problems and also the task specifications.
 - **CSV Data Files**
   - Contain the datasets used in Problems 3, 5, and 7
 
-- **LaTeX Table (`table_results.tex`)**
-  - Summarizes the test error results for different SVM kernels in Problem 7
 
