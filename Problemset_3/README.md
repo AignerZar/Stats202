@@ -8,7 +8,7 @@ the solutions of the problems and also the task specifications.
 
 - **Overleaf Report (`HW3_Report.tex`)**
   - Contains complete written answers to all problems
-  - Problems 1, 2, 4, and 6 are solved entirely in LaTeX
+  - Problems 1, 2, 4, 6 and 8 are solved entirely in LaTeX
   - Problems 3, 5, and 7 include analysis based on the Python scripts
 
 - **Python Files**
