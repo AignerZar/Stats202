@@ -6,7 +6,7 @@ the solutions of the problems and also the task specifications.
 
 ## Structure
 
-- **Overleaf Report (`HW4_Report.tex`)**
+- **Overleaf Report (`HW4_Report.pdf`)**
   - Contains complete written answers to all problems
   - Problems 1, 4  are solved entirely in LaTeX
   - Problems 2, 3, and 5 include analysis or producing plots based on the Python scripts
