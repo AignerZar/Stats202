@@ -1,4 +1,4 @@
-# STATS 202 – Final Projecz
+# STATS 202 – Final Project
 
 The Repository contains my solutions of the Final Project in the course **STATS 202** (Stanford University).  
 The coding exercises were programmed in **Python**, also the Latex file is contained in this repository, whereas the Latex file represents
